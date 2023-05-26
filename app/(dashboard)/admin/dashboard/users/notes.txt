@@ -1,0 +1,8 @@
+id: Represents the user's ID.
+name: Represents the user's full name.
+email: Represents the user's email address.
+role: Represents the user's role or permission level (e.g., admin, moderator, user).
+status: Represents the user's account status (e.g., active, suspended, disabled).
+phone number
+createdAt: Represents the timestamp when the user account was created.
+actions: Represents the available actions or operations that can be performed on the user (e.g., edit, delete, suspend).

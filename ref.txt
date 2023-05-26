@@ -1,0 +1,25 @@
+admin:
+email: admin@gmail.com
+pass: testtest123A
+
+supplier(fournisseur):
+email: s@gmail.com
+pass: testtest123A
+
+delivery man(livreur):
+email: d@gmail.com
+pass: testtest123A
+
+User(client):
+email: user@gmail.com
+pass: testtest123A
+
+RUN DEV MODE:
+npm run dev
+
+RUN PRODUCTION MODE:
+npm run build 
+npm run start
+
+RUN DATABASE:
+npx prisma studio

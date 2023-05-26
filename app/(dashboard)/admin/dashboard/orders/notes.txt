@@ -1,0 +1,7 @@
+id: Represents the unique ID of the order.
+customerName: Represents the name of the customer who placed the order.
+orderName: Represents the name of the order.
+orderImage: Represents the image associated with the order.
+orderDate: Represents the date when the order was placed.
+totalPrice: Represents the total price of the order.
+status: Represents the status of the order.
